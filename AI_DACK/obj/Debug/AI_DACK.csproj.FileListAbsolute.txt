@@ -1,0 +1,11 @@
+C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\bin\Debug\AI_DACK.exe.config
+C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\bin\Debug\AI_DACK.exe
+C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\bin\Debug\AI_DACK.pdb
+C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\obj\Debug\AI_DACK.csprojAssemblyReference.cache
+C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\obj\Debug\AI_DACK.Properties.Resources.resources
+C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\obj\Debug\AI_DACK.csproj.GenerateResource.cache
+C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\obj\Debug\AI_DACK.csproj.CoreCompileInputs.cache
+C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\obj\Debug\AI_DACK.exe
+C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\obj\Debug\AI_DACK.pdb
+C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\obj\Debug\AI_DACK.Dashboard.resources
+C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\obj\Debug\AI_DACK.Setting.resources
