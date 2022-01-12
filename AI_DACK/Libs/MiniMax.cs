@@ -27,26 +27,15 @@ namespace AI_DACK.Libs
             _numOfRow = numOfRow;
             _numOfCol = numOfCol;
             _level = level;
-            if (level == 0)
+
+            _scoreTable = new Dictionary<char, int>()
             {
-                _scoreTable = new Dictionary<char, int>()
-                {
-                    {'t',0},
-                    {'X',1},
-                    {'O',-1},
-                    {'n',-10},
-                };
-            }
-            else
-            {
-                _scoreTable = new Dictionary<char, int>()
-                {
-                    {'t',0},
-                    {'X',5},
-                    {'O',-5},
-                    {'n',-10},
-                };
-            }
+                {'t',0},
+                {'X',5},
+                {'O',-5},
+                {'n',-10},
+            };
+
         }
 
         char CheckWin(char[,] content)

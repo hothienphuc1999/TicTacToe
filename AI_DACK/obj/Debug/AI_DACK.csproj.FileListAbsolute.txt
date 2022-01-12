@@ -9,3 +9,15 @@ C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\obj\Debug\AI_DACK.exe
 C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\obj\Debug\AI_DACK.pdb
 C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\obj\Debug\AI_DACK.Dashboard.resources
 C:\Users\THIENPHUC\source\repos\AI_DACK\AI_DACK\obj\Debug\AI_DACK.Setting.resources
+D:\Trung Nam\AI_DACK\bin\Debug\AI_DACK.exe.config
+D:\Trung Nam\AI_DACK\bin\Debug\AI_DACK.exe
+D:\Trung Nam\AI_DACK\bin\Debug\AI_DACK.pdb
+D:\Trung Nam\AI_DACK\obj\Debug\AI_DACK.csproj.AssemblyReference.cache
+D:\Trung Nam\AI_DACK\obj\Debug\AI_DACK.csproj.SuggestedBindingRedirects.cache
+D:\Trung Nam\AI_DACK\obj\Debug\AI_DACK.Dashboard.resources
+D:\Trung Nam\AI_DACK\obj\Debug\AI_DACK.Properties.Resources.resources
+D:\Trung Nam\AI_DACK\obj\Debug\AI_DACK.Setting.resources
+D:\Trung Nam\AI_DACK\obj\Debug\AI_DACK.csproj.GenerateResource.cache
+D:\Trung Nam\AI_DACK\obj\Debug\AI_DACK.csproj.CoreCompileInputs.cache
+D:\Trung Nam\AI_DACK\obj\Debug\AI_DACK.exe
+D:\Trung Nam\AI_DACK\obj\Debug\AI_DACK.pdb
