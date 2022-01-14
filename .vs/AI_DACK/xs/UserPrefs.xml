@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{63B0703B-323A-467F-B2E2-24363492F439}|Default">
+  <MonoDevelop.Ide.ItemProperties.AI__DACK PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AI_DACK/Libs/MiniMax.cs">
+    <Files>
+      <File FileName="AI_DACK/Libs/MiniMax.cs" Line="1" Column="1" />
+      <File FileName="AI_DACK/Libs/Board.cs" Line="126" Column="19" />
+      <File FileName="AI_DACK/Libs/AlphaBeta.cs" Line="87" Column="13" />
+      <File FileName="AI_DACK/Libs/Helper.cs" Line="21" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
